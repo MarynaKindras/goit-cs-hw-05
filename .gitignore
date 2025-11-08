@@ -105,3 +105,17 @@ dist
 
 # Editor directories and files
 .DS_Store
+
+# IDE-specific files
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Python virtual environment
+.venv/
+__pycache__/
+
+# System files (Windows/macOS)
+.DS_Store
+Thumbs.db
